@@ -3,4 +3,4 @@ crate a new branch is simple.
 
 create a new branch is qiuckly
 
-merge test
+merge test2
